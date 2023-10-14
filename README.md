@@ -139,14 +139,14 @@ AWDEV FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER
 
 GITHUB CLI
 ```
-gh repo clone awdev-corporation/awdev
+gh repo clone awdevmyid/awdevmyid
 ```
 HTTP/HTTPS
 
 ```
-https://github.com/awdevmyid/awdev.git
+https://github.com/awdevmyid/awdevmyid.git
 ```
 ZIP
 ```
-https://github.com/awdevmyid/awdev/archive/refs/heads/main.zip
+https://github.com/awdevmyid/awdevmyid.github.io/archive/refs/heads/main.zip
 ```
