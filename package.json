@@ -1,0 +1,31 @@
+{
+  "name": "awdevmyid",
+  "version": "1.0.0",
+  "description": "Awdevmyid - A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awdevmyid/awdevmyid.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "awdevmyid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awdevmyid/awdevmyid/issues"
+  },
+  "homepage": "https://github.com/awdevmyid/awdevmyid#readme",
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.12"
+  }
+}
