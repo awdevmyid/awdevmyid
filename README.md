@@ -153,6 +153,14 @@ Joomla Templates
 Magento Themes
 WordPress Themes
 
+```
+<iframe src="https://github.com/sponsors/awdevmyid/card" title="Sponsor awdevmyid" height="225" width="600" style="border: 0;"></iframe>
+```
+
+```
+<iframe src="https://github.com/sponsors/awdevmyid/button" title="Sponsor awdevmyid" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+```
+
 
 
 ## INSTAL
