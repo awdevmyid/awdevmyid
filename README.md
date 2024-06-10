@@ -125,6 +125,36 @@ AWDEV FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER
 - [Sponsored](https://github.com/sponsors/wahyu9kdl)
 - [Acknowledgements](#acknowledgements)
 
+# Projects Categories
+Android
+Free Code
+Plugins
+Joomla Extensions
+WordPress Plugins
+Scripts & Code
+ASP/ASP.NET
+C & C++
+C#
+iOS
+Java
+JavaScript
+Joomla Source Code
+NodeJS
+Other
+PHP Scripts
+Python
+VB.NET
+Visual Basic
+WordPress Source Code
+Themes & Templates
+Blogspot Templates
+HTML Templates
+Joomla Templates
+Magento Themes
+WordPress Themes
+
+
+
 ## INSTAL
 
 GITHUB CLI
