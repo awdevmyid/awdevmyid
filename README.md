@@ -1,6 +1,8 @@
+Welcome to the awdevmyid.github.io wiki!
+
 <p align="center"> 
   
-![ico.png](ico.png)
+![https://awdev.my.id/ico.png](https://www.awdev.my.id/ico.png)
 
 </p>
 
@@ -23,11 +25,15 @@ AWDEV FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER
     .
     <a href="https://www.awdev.my.id/youtube/downloader.html">Youtube Downloader</a>
     .
-    <a href="https://www.awdev.my.id/thema">Templates</a>    
-    .
-    <a href="https://blog.awdev.my.id/">Blog</a>    
-  
-</p>
+    <a href="https://www.awdev.my.id/thema">Templates</a>   
+ .
+    <a href="https://aframe.awdev.my.id/">Aframe AR/VR</a> 
+ .
+    <a href="https://readme.awdev.my.id/">Readme</a>  
+.
+    <a href="https://codeigniter.awdev.my.id/">Codeigniter</a>  
+
+  </p>
 </p>
 
 
@@ -102,16 +108,16 @@ AWDEV FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER
   - [Buy APP Crypto](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=82DLHDSRV7J68)
   - [Github Profile Repo](http://www.awdev.my.id/search/github/index.html)
 - [BLOOG](http://www.awdev.my.id/blog)
-  - [BLOOG 1](https://blog.awdev.my.id/)
-  - [BLOOG 2](https://blog.awdev.my.id/)
+  - [BLOOG 1](http://www.awdev.my.id/blog/a1.html)
+  - [BLOOG 2](http://www.awdev.my.id/blog/a2.html)
 - [urls.cfg](http://www.awdev.my.id/urls.cfg)
 - [SITEMAP](https://www.awdev.my.id/sitemap.txt)
 - [FAQ](https://www.awdev.my.id/faq.html)
 - [PRIVASY](https://www.awdev.my.id/privasy.html)
 - [404](https://www.awdev.my.id/404.html)
 
-- [Wiki](https://github.com/awdevmyid/awdevmyid.wiki.git)
-- [Pull Requests](https://github.com/awdevmyid/awdevmyid/pulls)
+- [Wiki](https://github.com/awdevmyid/awdev.wiki.git)
+- [Pull Requests](https://github.com/awdevmyid/awdev/pulls)
 - [License](LICENSE)
 - [SECURITY](SECURITY.md)
 - [Authors](#authors)
@@ -123,58 +129,14 @@ AWDEV FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER
 
 GITHUB CLI
 ```
-gh repo clone awdevmyid/awdevmyid.github.io
+gh repo clone awdev-corporation/awdev
 ```
 HTTP/HTTPS
 
 ```
-https://github.com/awdevmyid/awdevmyid.github.io.git
+https://github.com/awdevmyid/awdev.git
 ```
 ZIP
 ```
-https://github.com/awdevmyid/awdevmyid.github.io/archive/refs/heads/main.zip
+https://github.com/awdevmyid/awdev/archive/refs/heads/main.zip
 ```
-# SERVICE
-
-OPPEN ON THIS SITE
-
-[https://www.awdev.my.id](https://www.awdev.my.id)
-
-[https://qr.awdev.my.id](https://qr.awdev.my.id)
-
-[https://blog.awdev.my.id](https://blog.awdev.my.id)
-
-[https://go.awdev.my.id](https://go.awdev.my.id)
-
-[https://app.awdev.my.id](https://app.awdev.my.id)
-
-[https://ide.awdev.my.id](https://ide.awdev.my.id)
-
-## Paypal Link
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8MU20167P66356111MYMSC5Q
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0KC8311077154863SMZQ3EDA
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8MU20167P66356111MYMSC5Q
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4WF80797503132036MIXUZVI
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0GU49296UP065262SMJOC6PY
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-36X28874YK702584EMZQ4KSY
-
-Thank you for your support and thank you for your donation. This means a lot to us.
-
-
-Started Now
-
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8MU20167P66356111MYMSC5Q
-
-
-## Sponsor this project
-
-[@wahyu9kdl](https://github.com/sponsors/wahyu9kdl)
-https://paypal.me/wahyudi9kdl
-https://trakteer.id/awfanspage/tip
-https://saweria.co/AwGroupChannel
